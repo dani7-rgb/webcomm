@@ -7,4 +7,10 @@ main{
 background-color: antiquewhite;
 color: coral;
 width: 70%;
+margin: 0 auto;
+}
+
+h1 { 
+    background-color: coral;
+    color: black;
 }
